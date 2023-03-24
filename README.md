@@ -14,9 +14,6 @@ Hello, I'm Furkan. I work as an Android | Native Mobile Application Developer. I
 
 [![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkannkaymaz&show_icons=true)](https://github.com/furkannkaymaz)
 
-![Furkan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=furkannkaymaz&bg_color=ffffff&color=708d81&line=24292e&point=24292e&area=true&hide_border=true)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkannkaymaz&layout=compact)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furkannkaymaz&theme=dark)](https://git.io/streak-stats)
