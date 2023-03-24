@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/furkannkaymaz"><img src="https://img.shields.io/github/followers/furkannkaymaz.svg?label=GitHub&style=social" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/furkan-kaymaz/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="[https://www.linkedin.com/in/furkan-kaymaz/](https://www.linkedin.com/in/furkan-kaymaz-417956197/)"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -39,4 +39,4 @@ Hello, I'm Furkan. I work as an Android | Native Mobile Application Developer. I
 ## Contact Me
 
 - Email: furkannkaymaz@gmail.com
-- LinkedIn: https://www.linkedin.com/in/furkan-kaymaz/
+- LinkedIn: [https://www.linkedin.com/in/furkan-kaymaz/](https://www.linkedin.com/in/furkan-kaymaz-417956197/)
