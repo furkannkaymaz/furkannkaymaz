@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://github.com/furkannkaymaz"><img src="https://img.shields.io/github/followers/furkannkaymaz.svg?label=GitHub&style=social" alt="GitHub"></a>
-  <a href="[https://www.linkedin.com/in/furkan-kaymaz/](https://www.linkedin.com/in/furkan-kaymaz-417956197/)"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 ## About Me
