@@ -1,10 +1,6 @@
 <h1 align="center">Furkan Kaymaz</h1>
 <h3 align="center">Android | Native Mobile Application Developer</h3>
 
-<p align="center">
-  <a href="https://github.com/furkannkaymaz"><img src="https://img.shields.io/github/followers/furkannkaymaz.svg?label=GitHub&style=social" alt="GitHub"></a>
-</p>
-
 ## About Me
 
 Hello, I'm Furkan. I work as an Android | Native Mobile Application Developer. I use the Kotlin programming language during the application development process. I focus on constantly improving myself and learning new technologies.
