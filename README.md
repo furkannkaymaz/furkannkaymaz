@@ -5,10 +5,6 @@
 
 Hello, I'm Furkan. I work as an Android | Native Mobile Application Developer. I use the Kotlin programming language during the application development process. I focus on constantly improving myself and learning new technologies.
 
-## GitHub Stats
-
-[![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkannkaymaz&show_icons=true)](https://github.com/furkannkaymaz)
-
 ## Contact Me
 
 - Email: furkannkaymaz@gmail.com
